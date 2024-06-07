@@ -206,6 +206,6 @@ käyttäjätunnus-salasanaparia hyödyntävät esimerkit funktioista `publish.si
 4. Tässä käyttäjätunnus ja salasana annettiin selkotekstinä. Ne saa siis tiedostoista urkittua. Selvitä, miten tässä voi hyödyntää hash-algoritmia eli algoritmia, joka muuttaa käyttäjänimen ja salasanan kiinteän pituiseksi sekasotkun näköiseksi merkkijonoksi.
 5. Selvitä, mitä ovat MQTT:n ominaisuudet Last Will ja Testament ja toteuta ne Paho MQTT:llä.
 
-## Kurssin rakenne
+### Sisältö
 
-### [Johdanto](01-johdanto.md) | [Toiminta](02-toiminta.md) | Lisätietoa
+#### [Johdanto](01-johdanto.md) | [Toiminta](02-toiminta.md) | Lisätietoa

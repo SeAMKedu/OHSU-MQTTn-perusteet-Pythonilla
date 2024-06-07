@@ -361,6 +361,6 @@ Nyt jokaisen viestin vastaanoton jälkeen saatu viesti lisätään listaan `user
 4. Kopioi tilaaja.py eri tiedostoon (esim. tilaaja2.py) ja vaihda asiakkaan nimi (CLIENT_ID). Aja nyt julkaisija ja molemmat tilaajat. Kun tilaajilla on eri nimet, ei viestien vastaanotossa ole enää ongelmaa.
 5. Kopioi julkaisija.py eri tiedostoon, muuta sen nimi sekä sen julkaiseman aiheen nimi ja muuta myös keinotekoiset mittauspisteet vaikka koordinaattimittauksiksi (longitude ja latitude). Tilaa samalla tilaajalla molempia aiheita, alkuperäistä ja uutta. Aja molemmat julkaisijat ja tilaaja omissa komentokehotteissaan.
 
-## Kurssin rakenne
+### Sisältö
 
-### [Johdanto](01-johdanto.md) | Toiminta | [Lisätietoa](03-lisatietoa.md)
+#### [Johdanto](01-johdanto.md) | Toiminta | [Lisätietoa](03-lisatietoa.md)

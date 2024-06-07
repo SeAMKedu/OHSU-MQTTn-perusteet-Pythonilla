@@ -40,6 +40,6 @@ Kurssi koostuu tämän johdanto-osion lisäksi kahdesta osiosta, jotka ovat omin
 
 Oppimismateriaalin pääasiallisena lähteenä on käytetty HiveMQ:n [e-kirjaa MQTT:n perusteista](https://www.hivemq.com/static/ebooks/hivemq-ebook-mqtt-essentials.pdf) sekä aiemmassa kappaleessa jo kertaalleen linkattua [Paho-MQTT moduulin GitHub-sivua](https://pypi.org/project/paho-mqtt/) ja [moduulin erillistä dokumentaatiosivua](https://eclipse.dev/paho/files/paho.mqtt.python/html/). Kirjan lukemista sekä dokumentaation kahlaamista suositellaan niille, jotka haluavat tietää aiheesta enemmän.
 
-## Kurssin rakenne
+### Sisältö
 
-### Johdanto | [Toiminta](02-toiminta.md) | [Lisätietoa](03-lisatietoa.md)
+#### Johdanto | [Toiminta](02-toiminta.md) | [Lisätietoa](03-lisatietoa.md)
