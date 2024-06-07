@@ -39,3 +39,7 @@ Esimerkkiohjelmia laatiessa on käytetty silloista moduulin uusinta versiota 2.1
 Kurssi koostuu tämän johdanto-osion lisäksi kahdesta osiosta, jotka ovat omina md-tiedostoinaan. Toinen osa Toiminta ([02-toiminta.md](02-toiminta.md)) käsittelee MQTT:n viestinvälityksen rakennetta asiakkaan ja välityspalvelimen välillä, esittelee Paho MQTT:n `client`-luokan ja sen käytön julkaisemiseen ja tilaamiseen sekä tarjoaa esimerkkiohjelmat julkaisijasta ja tilaajasta. Kolmas osa Lisätietoa ([03-lisatietoa.md](03-lisatietoa.md)) kertoo tarkemmin viestin mittadatan purkamisesta, yksittäisten viestien julkaisemisesta ja tilaamisesta sekä viestiliikenteen salaamisesta. Molempien osioiden lopuksi on muutama tehtävä, joilla oppimaansa voi kokeilla. Osioiden esimerkkiohjelmat ovat kansiossa esimerkkiohjelmat Python-tiedostoina.
 
 Oppimismateriaalin pääasiallisena lähteenä on käytetty HiveMQ:n [e-kirjaa MQTT:n perusteista](https://www.hivemq.com/static/ebooks/hivemq-ebook-mqtt-essentials.pdf) sekä aiemmassa kappaleessa jo kertaalleen linkattua [Paho-MQTT moduulin GitHub-sivua](https://pypi.org/project/paho-mqtt/) ja [moduulin erillistä dokumentaatiosivua](https://eclipse.dev/paho/files/paho.mqtt.python/html/). Kirjan lukemista sekä dokumentaation kahlaamista suositellaan niille, jotka haluavat tietää aiheesta enemmän.
+
+## Kurssin rakenne
+
+### Johdanto | [Toiminta](02-toiminta.md) | [Lisätietoa](03-lisatietoa.md)
