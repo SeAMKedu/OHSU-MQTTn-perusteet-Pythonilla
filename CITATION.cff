@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this teaching material and software, please cite it as below."
+authors:
+- family-names: "Hirvonen"
+  given-names: "Juha"
+  orcid: "https://orcid.org/0000-0001-6704-572X"
+title: "MQTT:n perusteet Pythonilla"
+version: 1.0
+doi: https://zenodo.org/doi/10.5281/zenodo.11516511
+date-released: 2024-06-07
+url: "https://github.com/SeAMKedu/OHSU-MQTTn-perusteet-Pythonilla"
